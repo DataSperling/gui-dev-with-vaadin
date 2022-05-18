@@ -1,4 +1,14 @@
-# My Todo
+
+# This Repo:
+This project is from the Vaadin Website:
+
+https://vaadin.com/docs/latest/flow/guide/quick-start
+
+I cloned it to use it to learn Vaadin. All credit to the original Authors. I am not the Author.
+
+# Below is the original README.md
+
+## My Todo
 
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
 It contains all the necessary configuration and some placeholder files to get you started.
